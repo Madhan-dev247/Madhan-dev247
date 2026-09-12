@@ -83,4 +83,4 @@ A biomedical data analysis project for analysing patient vital signs and identif
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey in Biomedical Engineering and Healthcare Technology.
+⭐ Feel free to explore my repositories and follow my journey in Biomedical and Healthcare Technology.

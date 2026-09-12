@@ -1,4 +1,4 @@
-# Hi, I'm Madhan 👋
+# Hi, I'm Madhan 
 
 ###  Biomedical Engineering Student | Python | Healthcare Technology
 
